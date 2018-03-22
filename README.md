@@ -1,6 +1,4 @@
-# Honduras Communiy
-
-Nuestra meta es convertir a Honduras en el HUB de emprendimiento y tecnología en la región, con diferentes startups de variadas industrias y soluciones. Con emprendedores de muchos distintos perfiles y en diferentes etapas de financiamiento. Con el objetivo de crear trabajo, bienestar tanto en el país como a la próxima generación de grandes empresas.
+Nuestra meta es convertir a Honduras en el centro de emprendimiento y tecnología en la región, con diferentes startups de variadas industrias y soluciones. Con emprendedores de muchos distintos perfiles y en diferentes etapas de financiamiento. Con el objetivo de crear trabajo, bienestar tanto en el país como a la próxima generación de grandes empresas.
 
 ## Puntos de Acción
 
